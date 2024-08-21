@@ -1,4 +1,4 @@
-# Automate Test Assignment 
+# Automate Assignment 
 ## Prerequisites 📖
 - Python 3.x
 - pip
